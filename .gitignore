@@ -111,5 +111,6 @@ outputs
 script
 *.yml
 score.py
+project
 
 
