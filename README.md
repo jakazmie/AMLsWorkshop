@@ -31,5 +31,6 @@ In this workshop we will use **Azure Notebooks** as a development environment.
 
 ![Azure Notebooks](https://github.com/jakazmie/images-for-hands-on-labs/raw/master/azurenotebooks.png)
 
+6. Click **Import**
 
 
